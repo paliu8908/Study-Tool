@@ -1,0 +1,33 @@
+question,correct,false
+A firm cannot default on equity,True,['False']
+Shareholders are liable when a company defaults,False,['True']
+What is the value of a common share when a firm goes bankrupt?,0,"['$10', 'firm debt/shares issued', 'IPO price of shares']"
+"In order to decrease the price of its shares, a firm might perform a ",stock split,"['reverse split', 'stock buyback', 'issue preferred shares']"
+A company's value is equal to its market capitalisation,False,['True']
+When is the Ex Dividend Date?,2 days before the record date,"['The day dividends are issued', 'The day after dividends are issued', 'The day before dividends are issued']"
+Stocks traded after the dividend record date are known as,Ex Dividend,"['Cum Dividend', 'Preferred Stocks', 'Dividend Paid Stock']"
+"When a dividend is announced, how does the stock price change?",Price decreases equal to dividend amount,"['Price increases equal to dividend amount', 'Price decreases 10%', 'Price increases 10%']"
+What does a Dividend Reinvestment Plan do?,Proceeds for a dividend are used to purchase more shares in the firm,"['Receive their dividends as cash payments.', 'Transfer their dividends to a savings account.', 'Receive dividends in the form of preferred shares.']"
+What is the effect of businesses issuing stock dividends?,Stock price decreases,"['Stock price increases', 'Increases company stock reserves', 'Reduces the number of outstanding shares']"
+What percentage of capital gains are tax-free?,50%,"['60%', '70%', '80%']"
+What is Bid?,Highest price a buyer is offering,"['Lowest price a seller is offering', 'Average price of a security', 'Highest price a stock reached during the day']"
+The lowest price a seller is offering is known as,Ask,"['Bid', 'Div', 'Close']"
+What is the difference between common and preferred shares?,Preferreds have fixed dividends and no voting privileges,"['Common shares have higher dividends than preferreds', 'Common shares have a fixed price while preferred prices fluctuate', 'Preferreds have voting rights while commons do not']"
+What is an advantage that preferred shares have over debt?,Reduced tax rate,"['Greater liquidity', 'Higher returns', 'Preferreds must be paid at a fixed maturity date unlike debt']"
+Preferred Shares are riskier than Common Shares,False,['True']
+Which type of preferred share can be converted to common shares at a set premium?,Convertible Preferreds,"['Fixed Preferreds', 'Retractable Preferreds', 'Variable Preferreds']"
+Retractable preferreds can be ,sold back to the issuer,"['converted into common stock', 'sold only on the secondary market', 'issued only to institutional ivnestors']"
+What is a disadvantage of retractable preferreds?,commonly sell above the redeem price,"['callable by firm at any time', 'higher dividends than common shares', 'always recieve fixed dividend payments']"
+What is a characteristic of variable preferreds,dividends change,"['fixed dividend payments', 'convertible into common shares', 'company may buy back the security']"
+What are warrants?,Allow holder to buy common stock at a set price,"['Insurance against stock market losses', 'Certificate of ownership of physical assets', 'Debt instruments that pay fixed interest']"
+What is meant by Calleable? ,Share may be redeemed by issuer at the market price and premium,"['Cannot be traded in the secondary market', 'Can be sold on the market at any time', 'Guarantees fixed payments']"
+What are the purpose of purchase funds?,To buy shares if shares fall below a certain price to increase the price,"['To invest in common shares', 'To pay dividends for preferred shares', 'Eliminate need to issue preferred shares']"
+Which of the following is NOT a characteristic of preferred shares?,Voting Rights,"['Calleable', 'Dividends', 'Protective Provisions']"
+Which type of firm commonly issues dividends?,Banks,"['Tech Companies', 'Non-profit organizations', 'Start-Ups']"
+What is the difference between Purchase Funds and Sinking Funds?,Purchase funds are used to buy equity sinking funds pay debt,"['Purchase funds are used exclusively for acquiring new assets while sinking funds are used to pay off debts.', 'No difference', 'Purchase funds can only be established by public companies while sinking funds are for private companies only.']"
+Which of the following is a protective provision?,Restrictions on additional share issues until issue terms are changed,"['Mandate on regular dividend payments to common shares', 'Require annual financial audits', 'ALlows shareholders to vote']"
+What is a Bellweather stock?,A stable stock that usually reflects the state of the economy,"['Stock in the company Bellweather', 'Consistently underperforming stock', 'Stock that is not frequently traded']"
+What is the difference between a price versus a value index,Price index gets the average price of securities while value indexes gets the average market capitalisation,"['No difference', 'Value indexes get the average price while price index gets the average market capitalisation', 'Prices are for fixed income securities while value is for equity']"
+Which Index uses a Price Index?,DOW Jones,"['S&P 500', 'TSX Composite Index', 'S&P/TSX 60']"
+Which stock is a bellweather stock?,Home Depot,"['Gamestop', 'Amazon', 'Tesla']"
+What is Pari Passau?,when different classes of preferreds have same rank in asset entitlement,"['when different classes of preferreds have different rank in asset entitlement', 'ranking of preferreds to common shares', 'ranking of preferreds to debtholders']"
